@@ -222,4 +222,3 @@ The main concepts practiced in this project were:
 
 **Sarthak Arya**
 
-This project is part of my React.js learning journey.
